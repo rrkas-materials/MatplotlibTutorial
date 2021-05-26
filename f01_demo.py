@@ -26,6 +26,6 @@ if __name__ == '__main__':
     # plt.grid(True)
     # plt.tight_layout()
 
-    plt.savefig('plot02.png')
+    plt.savefig('plots/plot02.png')
 
     plt.show()
